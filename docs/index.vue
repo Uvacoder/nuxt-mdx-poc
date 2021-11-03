@@ -1,6 +1,6 @@
 <template>
   <main>
-    <h1>⚡️Nuxt + Live Editor + MDX</h1>
+    <h1>⚡️Nuxt + Live Editor + MDX + Vercel</h1>
 
     <nuxt-link to="/docs">
       Click Here to see MDX Examples
